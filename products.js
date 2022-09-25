@@ -5,11 +5,11 @@ const products = [
 		image: 'img/products/1.png',
 		image2: 'img/products/1.png',
 		
-		title: ' علاج النهائي لنوبة الهلع و الخلعة    ',
-		price1: 3900,
-		price: 2900,
+		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
+		price1: 5500,
+		price: 3500,
 		description: '  '   ,
-		phone: 0554139163,
+		phone: 0,
 	},
 
 	
