@@ -2,8 +2,8 @@
 const products = [
 	{
 		id: 2,
-		logo:'img/logo.png',
-		image: 'img/1.png',
+		logo:'img/1.png',
+		image: 'img/2.png',
 		
 		title: 'سيروم ضد تساقط الشعر و الصلع الوراثي   '  ,
 		price1: 4500,
