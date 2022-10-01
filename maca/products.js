@@ -1,10 +1,9 @@
-
 const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/maca.jpg',
-		image2: 'img/products/zz.jpg'
+		image: 'img/1.jpg',
+		image2: 'img/products/zz.jpg',
 
 		title: 'اقوى حبوب ماكا لتكبير المؤخرة والارداف'  ,
 		price1: 20000,
