@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/chole.jpg',
+		image2: 'img/products/cholestrol.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		title: ' اقوى منتوج للقضاء على الكوليستول   ',
+		price1: 12500,
+		price: 9500,
+		description: '  اقوى منتوج للقضاء على الكوليستول '   ,
 		phone: 0,
 	},
 
