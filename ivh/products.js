@@ -7,7 +7,7 @@ const products = [
 		
 		title: ' كبسولات IVH+ للسكري   ',
 		price1: 9500,
-		price: 5900,
+		price: 6500,
 		description: '  كبسولات IVH+ للسكري '   ,
 		phone: 0,
 	},
