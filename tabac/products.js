@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/Dukhan.jpg',
+		image2: 'img/products/doukhan.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		title: ' الحل النهائي للتدخين ',
+		price1: 8500,
+		price: 5900,
+		description: '   الحل النهائي للتدخين '   ,
 		phone: 0,
 	},
 
