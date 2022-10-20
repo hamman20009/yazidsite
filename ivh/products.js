@@ -6,8 +6,8 @@ const products = [
 		image2: 'img/products/ivh.png',
 		
 		title: ' كبسولات IVH+ للسكري   ',
-		price1: 15000,
-		price: 9500,
+		price1: 9500,
+		price: 6900,
 		description: '  كبسولات IVH+ للسكري '   ,
 		phone: 0,
 	},
