@@ -2,14 +2,14 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/amani.jpg',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
-		phone: 0,
+		
+		title: ' مسمنة Amany لتكبير الارداف و الصدرو القضاء على دهون البطن    ',
+		price1: 15000,
+		price: 9500,
+		description: ' لبنات جبتلكم Amani طبيعية 100% امريكية الصنع لتكبير الارداف و شد الصدر وتنحي الشحمة الزايدة في الجسم تردلك لطاي كيما تحبي ا الكميو جد محدودة '   ,
+		phone: 00,
 	},
 
 	
