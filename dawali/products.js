@@ -5,10 +5,10 @@ const products = [
 		image: 'img/products/12.png',
 		image2: 'img/products/produit.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
+		title: ' العلاج النهائي للدوالي    ',
 		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		price: 4000,
+		description: '  العلاج النهائي للدوالي '   ,
 		phone: 0,
 	},
 
