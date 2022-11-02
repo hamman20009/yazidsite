@@ -7,7 +7,7 @@ const products = [
 		
 		title: ' العلاج النهائي للدوالي    ',
 		price1: 5500,
-		price: 4000,
+		price: 3500,
 		description: '  العلاج النهائي للدوالي '   ,
 		phone: 0,
 	},
