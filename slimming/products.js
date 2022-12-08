@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/Sliming.jpg',
+		image2: 'img/products/Sliming.jpg',
 		
 		title: ' اقوى كبسولات للتخسيس السريع  ',
 		price1: 10000,
