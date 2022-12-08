@@ -5,10 +5,10 @@ const products = [
 		image: 'img/products/12.png',
 		image2: 'img/products/produit.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		title: ' اقوى كبسولات للتخسيس السريع  ',
+		price1: 10000,
+		price: 6900,
+		description: 'اقوى كبسولات للتخسيس السريع تشيان في 30 يوم فقط الان متوفر عندنا و فقط'   ,
 		phone: 0,
 	},
 
