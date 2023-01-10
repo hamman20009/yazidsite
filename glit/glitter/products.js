@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/glitter.jpg',
+		image2: 'img/products/glitter.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
+		title: ' كريم بريق للدكتور امير صالح يقضي على الكلف،النمش،الدسة آثار حب الشباب الندب والهالات السوداء  ',
 		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		price: 4500,
+		description: '  لعلاج جميع مشاكل لبشرة صافية وشباب دائم ونعومة منقطعة النظير  '   ,
 		phone: 0,
 	},
 
