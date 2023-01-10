@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/slimming.jpg',
+		image2: 'img/products/slimming.jpg',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		title: ' المنتج الاكثر طلبا في الجزائر للتنحيف    ',
+		price1: 7500,
+		price: 5900,
+		description: '  يعتبر Sliming+ أقوى واحسن  منتج  ينجم يضعفك في اسبوع 3 كيلو واكثر !!! تكوبي لابيتي ودخل كرش وتنحي ليڨاز وتقلاق ومهدئة الاعصاب يزيل الشحم  '   ,
 		phone: 0,
 	},
 
