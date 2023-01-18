@@ -6,8 +6,8 @@ const products = [
 		image2: 'img/products/titan.png',
 		
 		title: ' TITAN GEL+ ORIGINAL   ',
-		price1: 12000,
-		price: 6900,
+		price1: 9500,
+		price: 5900,
 		description: '  TITAN GEL '   ,
 		phone: 0,
 	},
