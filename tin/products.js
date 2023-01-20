@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/tin.jpg',
-		image2: 'img/products/tinl.png',
+		image: 'img/products/café.jpg',
+		image2: 'img/products/café.png',
 		
 		title: ' القهوة الخضراء للتنحيف السريع   ',
 		price1: 6500,
