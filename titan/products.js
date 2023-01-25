@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/titan.png',
-		image2: 'img/products/titan1.JPG',
+		image: 'img/products/titan1.JPG',
+		image2: 'img/products/titan.png',
 		
 		title: ' GEL TITAN+ Original   ',
 		price1: 11000,
