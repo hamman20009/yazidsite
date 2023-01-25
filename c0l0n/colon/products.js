@@ -5,10 +5,10 @@ const products = [
 		image: 'img/products/colon.jpg',
 		image2: 'img/products/colon.jpg',
 		
-		title: ' افضل مشروب لعلاج جميع مشاكل القولون   ',
+		title: ' افضل مشروب لمشاكل القولون   ',
 		price1: 5500,
 		price: 3500,
-		description: '  افضل مشروب لعلاج جميع مشاكل القولون منها القولون العصبي و غيرها منتجنا طبيعي 100% '   ,
+		description: '  افضل مشروب لمشاكل القولون منها القولون العصبي و غيرها منتجنا طبيعي 100% '   ,
 		phone: 0,
 	},
 
