@@ -3,7 +3,7 @@ const products = [
 		id: 2,
 		logo:'img/logo.png',
 		image: 'img/products/colon.jpg',
-		image2: 'img/products/colon.jpg',
+		image2: 'img/products/colonl.png',
 		
 		title: ' افضل مشروب لمشاكل القولون   ',
 		price1: 5500,
