@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/ivh.jpg',
-		image2: 'img/products/ivh.png',
+		image: 'img/products/rhb.PNG',
+		image2: 'img/products/rhb.png',
 		
-		title: ' IVH+ للسكري   ',
-		price1: 8500,
-		price: 6500,
-		description: '  IVH+'   ,
+		title: ' RHB للسكري   ',
+		price1: 12000,
+		price: 9500,
+		description: '  RHB'   ,
 		phone: 0,
 	},
 
