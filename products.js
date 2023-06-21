@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/cr1.png',
-		image2: 'img/products/cr12.jpg',
+		image: 'img/products/cr12.jpg',
+		image2: 'img/products/produit.png',
 		
 		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
 		price1: 5500,
