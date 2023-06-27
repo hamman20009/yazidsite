@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/café.jpg',
-		image2: 'img/products/café.png',
+		image: 'img/products/titan1.JPG',
+		image2: 'img/products/titan.png',
 		
-		title: ' القهوة الخضراء للتنحيف السريع   ',
-		price1: 6500,
-		price: 5000,
-		description: '  القهوة الخضراء للتنحيف السريع '   ,
+		title: ' اTITAN+ ORIGINAL  ',
+		price1: 15500,
+		price: 7900,
+		description: '  اORIGINAL TITAN GEL '   ,
 		phone: 0,
 	},
 
