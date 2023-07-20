@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/Uk.png',
-		image2: 'img/products/dia.png',
+		image: 'img/products/dia.jpg',
+		image2: 'img/products/dia.jpg',
 		
 		title: ' المنتج البريطاني الأكثر فعالية  للقضاء على داء السكري    ',
 		price1: 20000,
