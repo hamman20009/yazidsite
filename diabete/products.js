@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/dia.jpg',
+		image: 'img/products/addia.jpg',
 		image2: 'img/products/dia.jpg',
 		
 		title: ' المنتج البريطاني الأكثر فعالية  للقضاء على داء السكري السعر مليون و خمسمية  ',
