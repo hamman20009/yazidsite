@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/xi.jpg',
+		image2: 'img/products/',
 		
 		title: ' ساعة Xioami الذكية Smart band 7   ',
 		price1: 11000,
