@@ -3,7 +3,7 @@ const products = [
 		id: 2,
 		logo:'img/logo.png',
 		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image2: 'img/products/produit.jpg',
 		
 		title: '   COLOCOFORT لعلاج القولون العصبي  ',
 		price1: 18000,
