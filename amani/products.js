@@ -5,11 +5,11 @@ const products = [
 		image: 'img/products/12.png',
 		image2: 'img/products/produit.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3900,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
-		phone: 0,
+		title: '   COLOCOFORT لعلاج القولون العصبي  ',
+		price1: 18000,
+		price: 15000 ,
+		description: '  العلاج الامريكي ضد القولون العصبي نقدم كل الضمانات على جودة و فعالية المنتج  '   ,
+		phone: 0554139163,
 	},
 
 	
