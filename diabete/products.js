@@ -2,8 +2,8 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/hyhy.jpg',
-		image2: 'img/hyhy.jpg',
+		image: 'img/glousamine.png',
+		image2: 'img/glousamine.png',
 		
 		title: ' glousamine لعلاج عرق النسا و الروماتيزم و الام المفاصل  ',
 		price1: 23000,
