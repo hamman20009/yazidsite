@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/glousamine.png',
+		image: 'img/100.png',
 		image2: 'img/glousamine.png',
 		
 		title: ' glousamine لعلاج عرق النسا و الروماتيزم و الام المفاصل  ',
