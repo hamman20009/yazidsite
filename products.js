@@ -6,8 +6,8 @@ const products = [
     image2: 'img/products/lc.png',
     
     title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-    price1: 5500,
-    price: 3900,
+    price1: ,
+    price: ,
     description: '   هار لوشن القاضي على الصلع و الشيب المبكر '   ,
     phone: 0,
   },
